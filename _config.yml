@@ -19,7 +19,7 @@ title:       "Irraquated"
 keywords:    "Irraquated"
 description: "Irraquated's site."
 source_link: "https://github.com/Irraquated/irraquated.github.io"
-favicon:     "favicon.ico"
+favicon:     "img/favicon.ico"
 touch_icon:  #put a path like: "img/apple-touch-icon.png"
 google_analytics_key: ## put YOUR key here to enable tracking! (blank to disable)
 
