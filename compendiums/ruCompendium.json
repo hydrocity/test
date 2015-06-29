@@ -1,0 +1,945 @@
+{
+  "name": "ORAS RU Role Compendium",
+  "children": [
+    {
+      "name": "Mega Pokemon",
+      "children": [
+        {
+          "name": "Camerupt"
+        },
+        {
+          "name": "Steelix"
+        },
+        {
+          "name": "Banette"
+        },
+        {
+          "name": "Audino"
+        },
+        {
+          "name": "Glalie"
+        }
+      ]
+    },
+    {
+      "name": "Stealth Rock Users",
+      "children": [
+        {
+          "name": "Offensive",
+          "children": [
+            {
+              "name": "Mesprit"
+            },
+            {
+              "name": "Omastar"
+            },
+            {
+              "name": "Piloswine"
+            },
+            {
+              "name": "Archeops"
+            },
+            {
+              "name": "Aurorus"
+            },
+            {
+              "name": "Rhyperior"
+            },
+            {
+              "name": "Camerupt"
+            },
+            {
+              "name": "Druddigon"
+            },
+            {
+              "name": "Cobalion"
+            },
+            {
+              "name": "Seismitoad"
+            },
+            {
+              "name": "Steelix"
+            },
+            {
+              "name": "Crustle"
+            },
+            {
+              "name": "Torterra"
+            }
+          ]
+        },
+        {
+          "name": "Defensive",
+          "children": [
+            {
+              "name": "Bronzong"
+            },
+            {
+              "name": "Registeel"
+            },
+            {
+              "name": "Steelix"
+            },
+            {
+              "name": "Rhyperior"
+            },
+            {
+              "name": "Camerupt"
+            },
+            {
+              "name": "Uxie"
+            },
+            {
+              "name": "Seismitoad"
+            },
+            {
+              "name": "Druddigon"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Spikes Users",
+      "children": [
+        {
+          "name": "Accelgor"
+        },
+        {
+          "name": "Omastar"
+        },
+        {
+          "name": "Roselia"
+        },
+        {
+          "name": "Qwilfish"
+        },
+        {
+          "name": "Glalie"
+        },
+        {
+          "name": "Crustle"
+        },
+        {
+          "name": "Garbodor"
+        }
+      ]
+    },
+    {
+      "name": "Toxic Spikes Users",
+      "children": [
+        {
+          "name": "Drapion"
+        },
+        {
+          "name": "Weezing"
+        },
+        {
+          "name": "Qwilfish"
+        },
+        {
+          "name": "Roselia"
+        },
+        {
+          "name": "Omastar"
+        },
+        {
+          "name": "Garbodor"
+        }
+      ]
+    },
+    {
+      "name": "Hazard Control",
+      "children": [
+        {
+          "name": "Offensive",
+          "children": [
+            {
+              "name": "Hitmonlee"
+            },
+            {
+              "name": "Kabutops"
+            },
+            {
+              "name": "Shiftry"
+            },
+            {
+              "name": "Sandslash"
+            },
+            {
+              "name": "Skuntank"
+            },
+            {
+              "name": "Flygon"
+            }
+          ]
+        },
+        {
+          "name": "Defensive",
+          "children": [
+            {
+              "name": "Golbat"
+            },
+            {
+              "name": "Hitmontop"
+            },
+            {
+              "name": "Togetic"
+            },
+            {
+              "name": "Xatu"
+            },
+            {
+              "name": "Skuntank"
+            },
+            {
+              "name": "Pelipper"
+            },
+            {
+              "name": "Flygon"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Fire-type Checks",
+      "children": [
+        {
+          "name": "Offensive",
+          "children": [
+            {
+              "name": "Rhyperior"
+            },
+            {
+              "name": "Kabutops"
+            },
+            {
+              "name": "Tyrantrum"
+            },
+            {
+              "name": "Omastar"
+            },
+            {
+              "name": "Druddigon"
+            },
+            {
+              "name": "Archeops"
+            },
+            {
+              "name": "Houndoom"
+            },
+            {
+              "name": "Seismitoad"
+            },
+            {
+              "name": "Clawitzer"
+            },
+            {
+              "name": "Camerupt"
+            },
+            {
+              "name": "Samurott"
+            },
+            {
+              "name": "Flygon"
+            },
+            {
+              "name": "Emboar"
+            }
+          ]
+        },
+        {
+          "name": "Defensive",
+          "children": [
+            {
+              "name": "Rhyperior"
+            },
+            {
+              "name": "Gastrodon"
+            },
+            {
+              "name": "Lanturn"
+            },
+            {
+              "name": "Quagsire"
+            },
+            {
+              "name": "Alomomola"
+            },
+            {
+              "name": "Jellicent"
+            },
+            {
+              "name": "Seismitoad"
+            },
+            {
+              "name": "Camerupt"
+            },
+            {
+              "name": "Druddigon"
+            },
+            {
+              "name": "Flygon"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Psychic-type Checks",
+      "children": [
+        {
+          "name": "Offensive",
+          "children": [
+            {
+              "name": "Shiftry"
+            },
+            {
+              "name": "Houndoom"
+            },
+            {
+              "name": "Escavalier"
+            },
+            {
+              "name": "Spiritomb"
+            },
+            {
+              "name": "Drapion"
+            },
+            {
+              "name": "Meloetta"
+            },
+            {
+              "name": "Skuntank"
+            },
+            {
+              "name": "Durant"
+            },
+            {
+              "name": "Scrafty"
+            },
+            {
+              "name": "Steelix"
+            },
+            {
+              "name": "Sneasel"
+            }
+          ]
+        },
+        {
+          "name": "Defensive",
+          "children": [
+            {
+              "name": "Registeel"
+            },
+            {
+              "name": "Steelix"
+            },
+            {
+              "name": "Spiritomb"
+            },
+            {
+              "name": "Drapion"
+            },
+            {
+              "name": "Meloetta"
+            },
+            {
+              "name": "Skuntank"
+            },
+            {
+              "name": "Escavalier"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Fighting-type Checks",
+      "children": [
+        {
+          "name": "Offensive",
+          "children": [
+            {
+              "name": "Fletchinder"
+            },
+            {
+              "name": "Spiritomb"
+            },
+            {
+              "name": "Delphox"
+            },
+            {
+              "name": "Sigilyph"
+            },
+            {
+              "name": "Mesprit"
+            },
+            {
+              "name": "Meloetta"
+            }
+          ]
+        },
+        {
+          "name": "Defensive",
+          "children": [
+            {
+              "name": "Aromatisse"
+            },
+            {
+              "name": "Qwilfish"
+            },
+            {
+              "name": "Golbat"
+            },
+            {
+              "name": "Spiritomb"
+            },
+            {
+              "name": "Amoonguss"
+            },
+            {
+              "name": "Weezing"
+            },
+            {
+              "name": "Granbull"
+            },
+            {
+              "name": "Uxie"
+            },
+            {
+              "name": "Pelipper"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Wallbreakers",
+      "children": [
+        {
+          "name": "Tyrantrum"
+        },
+        {
+          "name": "Escavalier"
+        },
+        {
+          "name": "Glalie"
+        },
+        {
+          "name": "Houndoom"
+        },
+        {
+          "name": "Hitmonlee"
+        },
+        {
+          "name": "Magneton"
+        },
+        {
+          "name": "Exploud"
+        },
+        {
+          "name": "Clawitzer"
+        },
+        {
+          "name": "Emboar"
+        },
+        {
+          "name": "Meloetta"
+        },
+        {
+          "name": "Sigilyph"
+        },
+        {
+          "name": "Medicham"
+        },
+        {
+          "name": "Camerupt"
+        },
+        {
+          "name": "Sawk"
+        },
+        {
+          "name": "Delphox"
+        },
+        {
+          "name": "Durant"
+        },
+        {
+          "name": "Scrafty"
+        },
+        {
+          "name": "Flygon"
+        },
+        {
+          "name": "Gallade"
+        },
+        {
+          "name": "Sneasel"
+        },
+        {
+          "name": "Samurott"
+        }
+      ]
+    },
+    {
+      "name": "Stallbreakers/Taunt Users",
+      "children": [
+        {
+          "name": "Meloetta"
+        },
+        {
+          "name": "Cobalion"
+        },
+        {
+          "name": "Braviary"
+        },
+        {
+          "name": "Qwilfish"
+        },
+        {
+          "name": "Spiritomb"
+        },
+        {
+          "name": "Drapion"
+        },
+        {
+          "name": "Jellicent"
+        },
+        {
+          "name": "Sigilyph"
+        },
+        {
+          "name": "Houndoom"
+        }
+      ]
+    },
+    {
+      "name": "Pivots",
+      "children": [
+        {
+          "name": "Offensive",
+          "children": [
+            {
+              "name": "Jolteon"
+            },
+            {
+              "name": "Magneton"
+            },
+            {
+              "name": "Cobalion"
+            },
+            {
+              "name": "Eelektross"
+            },
+            {
+              "name": "Tangrowth"
+            },
+            {
+              "name": "Flygon"
+            },
+            {
+              "name": "Braviary"
+            },
+            {
+              "name": "Rotom-C"
+            },
+            {
+              "name": "Meloetta"
+            },
+            {
+              "name": "Mesprit"
+            },
+            {
+              "name": "Durant"
+            }
+          ]
+        },
+        {
+          "name": "Defensive",
+          "children": [
+            {
+              "name": "Lanturn"
+            },
+            {
+              "name": "Alomomola"
+            },
+            {
+              "name": "Aromatisse"
+            },
+            {
+              "name": "Granbull"
+            },
+            {
+              "name": "Amoonguss"
+            },
+            {
+              "name": "Jellicent"
+            },
+            {
+              "name": "Hitmontop"
+            },
+            {
+              "name": "Qwilfish"
+            },
+            {
+              "name": "Tangrowth"
+            },
+            {
+              "name": "Flygon"
+            },
+            {
+              "name": "Pelipper"
+            },
+            {
+              "name": "Uxie"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Choice Scarf Users",
+      "children": [
+        {
+          "name": "Meloetta"
+        },
+        {
+          "name": "Hitmonlee"
+        },
+        {
+          "name": "Emboar"
+        },
+        {
+          "name": "Rotom-C"
+        },
+        {
+          "name": "Mesprit"
+        },
+        {
+          "name": "Tyrantrum"
+        },
+        {
+          "name": "Houndoom"
+        },
+        {
+          "name": "Durant"
+        },
+        {
+          "name": "Medicham"
+        },
+        {
+          "name": "Flygon"
+        }
+      ]
+    },
+    {
+      "name": "Trappers",
+      "children": [
+        {
+          "name": "Dugtrio"
+        },
+        {
+          "name": "Houndoom"
+        },
+        {
+          "name": "Spiritomb"
+        },
+        {
+          "name": "Escavalier"
+        },
+        {
+          "name": "Skuntank"
+        },
+        {
+          "name": "Drapion"
+        }
+      ]
+    },
+    {
+      "name": "Priority",
+      "children": [
+        {
+          "name": "Fletchinder"
+        },
+        {
+          "name": "Glalie"
+        },
+        {
+          "name": "Hitmonlee"
+        },
+        {
+          "name": "Dugtrio"
+        },
+        {
+          "name": "Spiritomb"
+        },
+        {
+          "name": "Druddigon"
+        },
+        {
+          "name": "Emboar"
+        },
+        {
+          "name": "Kabutops"
+        },
+        {
+          "name": "Shiftry"
+        },
+        {
+          "name": "Skuntank"
+        },
+        {
+          "name": "Gurdurr"
+        },
+        {
+          "name": "Kecleon"
+        },
+        {
+          "name": "Houndoom"
+        },
+        {
+          "name": "Samurott"
+        },
+        {
+          "name": "Sneasel"
+        }
+      ]
+    },
+    {
+      "name": "Clerics",
+      "children": [
+        {
+          "name": "Granbull"
+        },
+        {
+          "name": "Aromatisse"
+        },
+        {
+          "name": "Lanturn"
+        },
+        {
+          "name": "Alomomola"
+        },
+        {
+          "name": "Mesprit"
+        },
+        {
+          "name": "Togetic"
+        },
+        {
+          "name": "Meloetta"
+        },
+        {
+          "name": "Audino"
+        }
+      ]
+    },
+    {
+      "name": "Boosting Sweepers",
+      "children": [
+        {
+          "name": "Swords Dance",
+          "children": [
+            {
+              "name": "Gallade"
+            },
+            {
+              "name": "Samurott"
+            },
+            {
+              "name": "Fletchinder"
+            },
+            {
+              "name": "Cobalion"
+            },
+            {
+              "name": "Drapion"
+            },
+            {
+              "name": "Shiftry"
+            },
+            {
+              "name": "Virizion"
+            },
+            {
+              "name": "Rhyperior"
+            },
+            {
+              "name": "Bouffalant"
+            },
+            {
+              "name": "Escavalier"
+            }
+          ]
+        },
+        {
+          "name": "Bulk Up",
+          "children": [
+            {
+              "name": "Medicham"
+            },
+            {
+              "name": "Scrafty"
+            },
+            {
+              "name": "Gallade"
+            },
+            {
+              "name": "Braviary"
+            },
+            {
+              "name": "Gurdurr"
+            },
+            {
+              "name": "Combusken"
+            }
+          ]
+        },
+        {
+          "name": "Nasty Plot",
+          "children": [
+            {
+              "name": "Mismagius"
+            },
+            {
+              "name": "Houndoom"
+            },
+            {
+              "name": "Togetic"
+            },
+            {
+              "name": "Cofagrigus"
+            }
+          ]
+        },
+        {
+          "name": "Calm Mind",
+          "children": [
+            {
+              "name": "Aromatisse"
+            },
+            {
+              "name": "Audino"
+            },
+            {
+              "name": "Delphox"
+            },
+            {
+              "name": "Meloetta"
+            },
+            {
+              "name": "Sigilyph"
+            },
+            {
+              "name": "Virizion"
+            }
+          ]
+        },
+        {
+          "name": "Shell Smash",
+          "children": [
+            {
+              "name": "Gorebyss"
+            },
+            {
+              "name": "Omastar"
+            },
+            {
+              "name": "Barbaracle"
+            },
+            {
+              "name": "Huntail"
+            }
+          ]
+        },
+        {
+          "name": "Dragon Dance",
+          "children": [
+            {
+              "name": "Scrafty"
+            },
+            {
+              "name": "Tyrantrum"
+            }
+          ]
+        },
+        {
+          "name": "Rock Polish",
+          "children": [
+            {
+              "name": "Aurorus"
+            },
+            {
+              "name": "Torterra"
+            },
+            {
+              "name": "Tyrantrum"
+            },
+            {
+              "name": "Rhyperior"
+            },
+            {
+              "name": "Cobalion"
+            }
+          ]
+        },
+        {
+          "name": "Curse",
+          "children": [
+            {
+              "name": "Steelix"
+            },
+            {
+              "name": "Registeel"
+            }
+          ]
+        },
+        {
+          "name": "Baton Pass",
+          "children": [
+            {
+              "name": "Medicham"
+            },
+            {
+              "name": "Jolteon"
+            },
+            {
+              "name": "Durant"
+            },
+            {
+              "name": "Togetic"
+            },
+            {
+              "name": "Combusken"
+            },
+            {
+              "name": "Gorebyss"
+            },
+            {
+              "name": "Huntail"
+            },
+            {
+              "name": "Musharna"
+            }
+          ]
+        },
+        {
+          "name": "Other",
+          "children": [
+            {
+              "name": "Malamar"
+            },
+            {
+              "name": "Durant"
+            },
+            {
+              "name": "Vivillon"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

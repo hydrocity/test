@@ -1,0 +1,563 @@
+{
+	"name": "ORAS NU Role Compendium",
+	"children": [
+		{
+			"name":"Mega Pokemon",
+			"children": [
+				{"name": "Audino"}
+			]
+		},
+		{
+			"name": "Stealth Rock Users",
+			"children": [
+				{
+					"name": "Offensive",
+					"children": [
+						{"name":"Rhydon"},
+						{"name":"Rampardos"},
+						{"name":"Sandslash"},
+						{"name":"Piloswine"},
+						{"name":"Mesprit"},
+						{"name":"Torterra"},
+						{"name":"Golurk"},
+						{"name":"Crustle"},
+						{"name":"Archeops"},
+						{"name":"Aurorus"},
+						{"name":"Pinsir"},
+						{"name":"Mawile"}
+					]
+				},
+				{
+					"name": "Defensive",
+					"children": [
+						{"name":"Rhydon"},
+						{"name":"Sandslash"},
+						{"name":"Uxie"},
+						{"name":"Regirock"},
+						{"name":"Probopass"},
+						{"name":"Prinplup"},
+						{"name":"Ferroseed"},
+						{"name":"Mawile"},
+						{"name":"Stunfisk"},
+						{"name":"Cradily"},
+						{"name":"Torterra"}
+					]
+				}
+			]
+		},
+		{
+			"name": "Spike / Toxic Spike Setters",
+			"children": [
+				{
+					"name":"Offensive",
+					"children": [
+						{"name":"Cacturne"},
+						{"name":"Crustle"},
+						{"name":"Garbodor"}
+					]
+				},
+				{
+					"name":"Defensive",
+					"children" : [
+						{"name":"Weezing"},
+						{"name":"Roselia"},
+						{"name":"Garbodor"},
+						{"name":"Ferroseed"}
+					]
+				},
+			]
+		},
+		{
+			"name": "Hazard Control",
+			"children": [
+				{
+					"name": "Offensive",
+					"children": [
+						{"name":"Cryogonal"},
+						{"name":"Kabutops"},
+						{"name":"Claydol"},
+						{"name":"Archeops"},
+						{"name":"Swanna"},
+						{"name":"Sandslash"}
+					]
+				},
+				{
+					"name": "Defensive",
+					"children": [
+						{"name":"Cryogonal"},
+						{"name":"Togetic"},
+						{"name":"Pelipper"},
+						{"name":"Mantine"},
+						{"name":"Sandslash"},
+						{"name":"Xatu"},
+						{"name":"Prinplup"}
+					]
+				}
+			]
+		},
+		{
+			"name": "Fire-type Checks",
+			"children": [
+				{
+					"name": "Offensive",
+					"children": [
+						{"name":"Ninetales"},
+						{"name":"Hariyama"},
+						{"name":"Rhydon"},
+						{"name":"Flareon"},
+						{"name":"Archeops"},
+						{"name":"Samurott"},
+						{"name":"Kabutops"},
+						{"name":"Lanturn"}
+					]
+				},
+				{
+					"name": "Defensive",
+					"children": [
+						{"name":"Prinplup"},
+						{"name":"Rhydon"},
+						{"name":"Mantine"},
+						{"name":"Regirock"},
+						{"name":"Flareon"},
+						{"name":"Lanturn"},
+						{"name":"Grumpig"}
+					]
+				}
+			]
+		},
+		{
+			"name": "Archeops Checks",
+			"children": [
+				{
+					"name": "Offensive",
+					"children": [
+						{"name":"Rhydon"},
+						{"name":"Sneasel"},
+						{"name":"Floatzel"},
+						{"name":"Kabutops"},
+						{"name":"Carracosta"},
+						{"name":"Samurott"},
+						{"name":"Rotom"},
+						{"name":"Piloswine"},
+						{"name":"Zebstrika"},
+						{"name":"Granbull"}
+					]
+				},
+				{
+					"name": "Defensive",
+					"children": [
+						{"name":"Regirock"},
+						{"name":"Granbull"},
+						{"name":"Quagsire"},
+						{"name":"Stunfisk"},
+						{"name":"Carracosta"},
+						{"name":"Audino-Mega"},
+						{"name":"Rhydon"}
+					]
+				}
+			]
+		},
+		{
+			"name": "Sneasel Checks",
+			"children": [
+				{
+					"name": "Offensive",
+					"children": [
+						{"name":"Audino-Mega"},
+						{"name":"Garbodor"},
+						{"name":"Sawk"},
+						{"name":"Gurdurr"},
+						{"name":"Mawile"},
+						{"name":"Hariyama"},
+						{"name":"Granbull"},
+						{"name":"Poliwrath"},
+						{"name":"Pawniard"},
+						{"name":"Klinklang"},
+						{"name":"Carracosta"},
+						{"name":"Barbaracle"},
+						{"name":"Fletchinder"}
+					]
+				},
+				{
+					"name": "Defensive",
+					"children": [
+						{"name":"Carracosta"},
+						{"name":"Quagsire"},
+						{"name":"Regirock"},
+						{"name":"Ferroseed"},
+						{"name":"Audino-Mega"},
+						{"name":"Garbodor"},
+						{"name":"Mawile"},
+						{"name":"Granbull"},
+						{"name":"Poliwrath"},
+						{"name":"Carbink"},
+						{"name":"Weezing"},
+						{"name":"Fletchinder"}
+					]
+				}
+			]
+		},
+		{
+			"name": "Malamar Checks",
+			"children": [
+				{
+					"name": "Offensive",
+					"children": [
+						{"name":"Rhydon"},
+						{"name":"Scyther"},
+						{"name":"Pinsir"},
+						{"name":"Audino-Mega"},
+						{"name":"Uxie"},
+						{"name":"Mesprit"},
+						{"name":"Vivillon"},
+						{"name":"Samurott"}
+					]
+				},
+				{
+					"name": "Defensive",
+					"children": [
+						{"name":"Audino-Mega"},
+						{"name":"Gourgeist"},
+						{"name":"Quagsire"},
+						{"name":"Togetic"},
+						{"name":"Uxie"},
+						{"name":"Poliwrath"},
+						{"name":"Musharna"}
+					]
+				}
+			]
+		},
+		{
+			"name": "Normal-type Checks",
+			"children": [
+				{
+					"name": "Offensive",
+					"children": [
+						{"name":"Archeops"},
+						{"name":"Garbodor"},
+						{"name":"Klinklang"},
+						{"name":"Mawile"},
+						{"name":"Rhydon"},
+						{"name":"Gurdurr"},
+						{"name":"Carracosta"},
+						{"name":"Kabutops"}
+					]
+				},
+				{
+					"name": "Defensive",
+					"children": [
+						{"name":"Musharna"},
+						{"name":"Carracosta"},
+						{"name":"Ferroseed"},
+						{"name":"Regirock"},
+						{"name":"Gourgeist"},
+						{"name":"Mawile"},
+						{"name":"Garbodor"},
+						{"name":"Rhydon"}
+					]
+				}
+			]
+		},
+		{
+			"name": "Fighting-type Checks",
+			"children": [
+				{
+					"name": "Offensive",
+					"children": [
+						{"name":"Scyther"},
+						{"name":"Arbok"},
+						{"name":"Fletchinder"},
+						{"name":"Mr. Mime"},
+						{"name":"Mesprit"},
+						{"name":"Garbodor"},
+						{"name":"Granbull"},
+						{"name":"Uxie"},
+						{"name":"Audino-Mega"},
+						{"name":"Vivillon"},
+						{"name":"Rotom-Fan"}
+					]
+				},
+				{
+					"name": "Defensive",
+					"children": [
+						{"name":"Weezing"},
+						{"name":"Vileplume"},
+						{"name":"Pelipper"},
+						{"name":"Garbodor"},
+						{"name":"Togetic"},
+						{"name":"Granbull"},
+						{"name":"Xatu"},
+						{"name":"Musharna"},
+						{"name":"Uxie"},
+						{"name":"Audino-Mega"},
+						{"name":"Rotom-Fan"}
+					]
+				}
+			]
+		},
+		{
+			"name": "Psychic-type Checks",
+			"children": [
+				{
+					"name": "Offensive",
+					"children": [
+						{"name":"Klinklang"},
+						{"name":"Mawile"},
+						{"name":"Scyther"},
+						{"name":"Sneasel"},
+						{"name":"Rotom"},
+						{"name":"Zweilous"},
+						{"name":"Pawniard"},
+						{"name":"Liepard"},
+						{"name":"Mismagius"},
+						{"name":"Malamar"}
+					]
+				},
+				{
+					"name": "Defensive",
+					"children": [
+						{"name":"Zweilous"},
+						{"name":"Musharna"},
+						{"name":"Rotom"},
+						{"name":"Mawile"}
+					]
+				}
+			]
+		},
+		{
+			"name": "Priority",
+			"children": [
+				{"name":"Cacturne"},
+				{"name":"Piloswine"},
+				{"name":"Hariyama"},
+				{"name":"Kangaskhan"},
+				{"name":"Sneasel"},
+				{"name":"Swellow"},
+				{"name":"Zangoose"},
+				{"name":"Kecleon"},
+				{"name":"Gurdurr"},
+				{"name":"Pawniard"},
+				{"name":"Liepard"},
+				{"name":"Carracosta"},
+				{"name":"Samurott"},
+				{"name":"Mawile"},
+				{"name":"Huntail"},
+				{"name":"Fletchinder"},
+				{"name":"Kabutops"}
+			]
+		},
+		{
+			"name": "Stallbreakers / Taunt Users",
+			"children": [
+				{"name":"Uxie"},
+				{"name":"Musharna"},
+				{"name":"Xatu"},
+				{"name":"Archeops"},
+				{"name":"Mismagius"},
+				{"name":"Barbaracle"},
+				{"name":"Samurott"},
+				{"name":"Sawk"},
+				{"name":"Fletchinder"},
+				{"name":"Gallade"}
+			]
+		},
+		{
+			"name": "Wallbreakers",
+			"children": [
+				{"name":"Samurott"},
+				{"name":"Sawk"},
+				{"name":"Zangoose"},
+				{"name":"Magmortar"},
+				{"name":"Bouffalant"},
+				{"name":"Exeggutor"},
+				{"name":"Tauros"},
+				{"name":"Aurorus"},
+				{"name":"Kabutops"},
+				{"name":"Kangaskhan"},
+				{"name":"Electivire"},
+				{"name":"Golurk"},
+				{"name":"Gallade"},
+				{"name":"Pinsir"},
+				{"name":"Beheeyem"}
+			]
+		},
+		{
+			"name": "Pivots",
+			"children": [
+				{"name":"Lanturn"},
+				{"name":"Rotom"},
+				{"name":"Garbodor"},
+				{"name":"Liepard"},
+				{"name":"Togetic"},
+				{"name":"Rotom-Fan"},
+				{"name":"Cryogonal"},
+				{"name":"Uxie"}
+			]
+		},
+		{
+			"name": "Clerics",
+			"children": [
+				{
+					"name": "Wish",
+					"children": [
+						{"name":"Audino-Mega"},
+						{"name":"Audino"},
+						{"name":"Lickilicky"}
+					]
+				},
+				{
+					"name": "Healing Wish",
+					"children": [
+						{"name":"Audino-Mega"},
+						{"name":"Lilligant"},
+						{"name":"Mesprit"},
+						{"name":"Musharna"},
+						{"name":"Mr. Mime"}
+					]
+				},
+				{
+					"name": "Heal Bell / Aromatherapy",
+					"children": [
+						{"name":"Audino-Mega"},
+						{"name":"Uxie"},
+						{"name":"Lanturn"},
+						{"name":"Musharna"},
+						{"name":"Togetic"},
+						{"name":"Vileplume"},
+						{"name":"Granbull"},
+						{"name":"Flareon"},
+						{"name":"Lickilicky"}
+					]
+				}
+			]
+		},
+		{
+			"name": "Choice Scarf Users",
+			"children": [
+				{"name":"Mesprit"},
+				{"name":"Jynx"},
+				{"name":"Sawk"},
+				{"name":"Rotom"},
+				{"name":"Rotom-Fan"},
+				{"name":"Haunter"},
+				{"name":"Rotom-Frost"},
+				{"name":"Ditto"},
+				{"name":"Aurorus"}
+			]
+		},
+		{
+			"name": "Weather Setters",
+			"children": [
+				{"name":"Mesprit"},
+				{"name":"Ludicolo"},
+				{"name":"Liepard"},
+				{"name":"Regirock"},
+				{"name":"Mantine"},
+				{"name":"Rampardos"},
+				{"name":"Aurorus"}
+			]
+		},
+		{
+			"name": "Rain Abusers",
+			"children": [
+				{"name":"Carracosta"},
+				{"name":"Ludicolo"},
+				{"name":"Gorebyss"},
+				{"name":"Poliwrath"},
+				{"name":"Mantine"},
+				{"name":"Kabutops"}
+			]
+		},
+		{
+			"name": "Sun Abusers",
+			"children": [
+				{"name":"Lilligant"},
+				{"name":"Exeggutor"},
+				{"name":"Sawsbuck"},
+				{"name":"Victreebel"},
+				{"name":"Leafeon"},
+				{"name":"Pyroar"}
+			]
+		},
+		{
+			"name": "Boosting Sweepers",
+			"children": [
+				{
+					"name": "Swords Dance",
+					"children": [
+						{"name":"Gallade"},
+						{"name":"Pinsir"},
+						{"name":"Kabutops"},
+						{"name":"Fletchinder"},
+						{"name":"Scyther"},
+						{"name":"Mawile"},
+						{"name":"Sneasel"},
+						{"name":"Rhydon"},
+						{"name":"Samurott"},
+						{"name":"Leafeon"},
+						{"name":"Cacturne"},
+						{"name":"Bouffalant"},
+						{"name":"Sawsbuck"}
+					]
+				},
+				{
+					"name": "Quiver Dance",
+					"children": [
+						{"name":"Vivillon"},
+						{"name":"Lilligant"}
+					]
+				},
+				{
+					"name": "Bulk Up",
+					"children": [
+						{"name":"Gallade"},
+						{"name":"Gurdurr"},
+						{"name":"Gogoat"}
+					]
+				},
+				{
+					"name": "Nasty Plot",
+					"children": [
+						{"name":"Mr. Mime"},
+						{"name":"Mismagius"},
+						{"name":"Ninetales"},
+						{"name":"Jynx"},
+						{"name":"Togetic"},
+						{"name":"Simipour"}
+					]
+				},
+				{
+					"name": "Calm Mind",
+					"children": [
+						{"name":"Mesprit"},
+						{"name":"Musharna"},
+						{"name":"Uxie"},
+						{"name":"Xatu"},
+						{"name":"Audino-Mega"}
+					]
+				},
+				{
+					"name": "Shell Smash",
+					"children": [
+						{"name":"Gorebyss"},
+						{"name":"Huntail"},
+						{"name":"Crustle"},
+						{"name":"Barbaracle"},
+						{"name":"Carracosta"}
+					]
+				},
+				{
+					"name": "Other",
+					"children": [
+						{"name":"Klinklang"},
+						{"name":"Malamar"},
+						{"name":"Arbok"},
+						{"name":"Rhydon"},
+						{"name":"Vanilluxe"},
+						{"name":"Servine"}
+					]
+				}
+			]
+		}
+	]
+}

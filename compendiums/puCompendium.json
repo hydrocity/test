@@ -1,0 +1,790 @@
+{
+  "name": "ORAS PU Role Compendium",
+  "children": [
+    {
+      "name": "Stealth Rock Users",
+      "children": [
+        {
+          "name": "Offensive",
+          "children": [
+            {
+              "name": "Golem"
+            },
+            {
+              "name": "Barbaracle"
+            },
+            {
+              "name": "Aurorus"
+            },
+            {
+              "name": "Carracosta"
+            },
+            {
+              "name": "Marowak"
+            },
+            {
+              "name": "Torterra"
+            },
+            {
+              "name": "Armaldo"
+            },
+            {
+              "name": "Rampardos"
+            },
+            {
+              "name": "Monferno"
+            },
+            {
+              "name": "Pawniard"
+            }
+          ]
+        },
+        {
+          "name": "Defensive",
+          "children": [
+            {
+              "name": "Piloswine"
+            },
+            {
+              "name": "Probopass"
+            },
+            {
+              "name": "Stunfisk"
+            },
+            {
+              "name": "Torkoal"
+            },
+            {
+              "name": "Carbink"
+            },
+            {
+              "name": "Metang"
+            },
+            {
+              "name": "Hippopotas"
+            },
+            {
+              "name": "Solrock"
+            },
+						{
+							"name": "Dwebble"
+						},
+						{
+							"name": "Clefairy"
+						}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Spikes Users",
+      "children": [
+        {
+          "name": "Roselia"
+        },
+        {
+          "name": "Whirlipede"
+        },
+        {
+          "name": "Dwebble"
+        },
+        {
+          "name": "Quilladin"
+        },
+        {
+          "name": "Venipede"
+        }
+      ]
+    },
+    {
+      "name": "Toxic Spikes Users",
+      "children": [
+        {
+          "name": "Whirlipede"
+        },
+        {
+          "name": "Roselia"
+        },
+        {
+          "name": "Frogadier"
+        }
+      ]
+    },
+    {
+      "name": "Hazard Control",
+      "children": [
+        {
+          "name": "Defensive",
+          "children": [
+            {
+              "name": "Pelipper"
+            },
+            {
+              "name": "Avalugg"
+            },
+            {
+              "name": "Torkoal"
+            },
+						{
+							"name": "Vullaby"
+						}
+          ]
+          },
+          {
+          "name": "Offensive",
+          "children": [
+            {
+              "name": "Armaldo"
+            },
+            {
+              "name": "Swanna"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Firetype Checks",
+      "children": [
+        {
+          "name": "Offensive",
+          "children": [
+            {
+              "name": "Simipour"
+            },
+            {
+              "name": "Barbaracle"
+            },
+            {
+              "name": "Basculin"
+            },
+            {
+              "name": "Carracosta"
+            },
+            {
+              "name": "Floatzel"
+            },
+            {
+              "name": "Kingler"
+            },
+            {
+              "name": "Pelipper"
+            },
+            {
+              "name": "Golem"
+            },
+            {
+              "name": "Gabite"
+            },
+            {
+              "name": "Poliwrath"
+            },
+            {
+              "name": "Relicanth"
+            },
+            {
+              "name": "Zweilous"
+            },
+            {
+              "name": "Golduck"
+            }
+          ]
+        },
+        {
+          "name": "Defensive",
+          "children": [
+            {
+              "name": "Piloswine"
+            },
+            {
+              "name": "Stunfisk"
+            },
+            {
+              "name": "Whiscash"
+            },
+            {
+              "name": "Lapras"
+            },
+            {
+              "name": "Onix"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Psychictype Checks",
+      "children": [
+        {
+          "name": "Offensive",
+          "children": [
+            {
+              "name": "Zweilous"
+            },
+            {
+              "name": "Armaldo"
+            },
+            {
+              "name": "Ninjask"
+            },
+            {
+              "name": "Mightyena"
+            },
+            {
+              "name": "Pawniard"
+            },
+            {
+              "name": "Parasect"
+            }
+          ]
+        },
+        {
+          "name": "Defensive",
+          "children": [
+            {
+              "name": "Vespiquen"
+            },
+            {
+              "name": "Masquerain"
+            },
+            {
+              "name": "Dusknoir"
+            },
+            {
+              "name": "Gourgeist"
+            },
+            {
+              "name": "Misdreavus"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Fightingtype Checks",
+      "children": [
+        {
+          "name": "Offensive",
+          "children": [
+            {
+              "name": "Kadabra"
+            },
+            {
+              "name": "Mr.Mime"
+            },
+            {
+              "name": "Solrock"
+            },
+            {
+              "name": "Dodrio"
+            },
+            {
+              "name": "Unfezant"
+            },
+            {
+              "name": "Pelipper"
+            }
+          ]
+        },
+        {
+          "name": "Defensive",
+          "children": [
+            {
+              "name": "Togetic"
+            },
+            {
+              "name": "Vespiquen"
+            },
+            {
+              "name": "Hypno"
+            },
+            {
+              "name": "Meowstic"
+            },
+            {
+              "name": "Wobbuffet"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Wallbreakers",
+      "children": [
+        {
+          "name": "Zebstrika"
+        },
+        {
+          "name": "Simipour"
+        },
+        {
+          "name": "Kadabra"
+        },
+        {
+          "name": "Poliwrath"
+        },
+        {
+          "name": "Sawsbuck"
+        },
+        {
+          "name": "Ursaring"
+        },
+        {
+          "name": "Raichu"
+        },
+        {
+          "name": "Stoutland"
+        },
+        {
+          "name": "Floatzel"
+        },
+        {
+          "name": "Rapidash"
+        }
+      ]
+    },
+    {
+      "name": "Stallbreakers/Taunt Users",
+      "children": [
+        {
+          "name": "Barbaracla"
+        },
+        {
+          "name": "Basculin"
+        },
+        {
+          "name": "Dodrio"
+        },
+        {
+          "name": "Rapidash"
+        },
+        {
+          "name": "Jumpluff"
+        },
+        {
+          "name": "Heatmor"
+        },
+        {
+          "name": "Floatzel"
+        },
+        {
+          "name": "Kadabra"
+        },
+        {
+          "name": "Slaking"
+        },
+        {
+        	"name": "Simipour"
+        }
+      ]
+    },
+    {
+      "name": "Pivots",
+      "children": [
+        {
+          "name": "Offensive",
+          "children": [
+            {
+              "name": "Zebstrika"
+            },
+            {
+              "name": "Pikachu-Belle"
+            },
+            {
+              "name": "Electrode"
+            },
+            {
+              "name": "Monferno"
+            },
+            {
+              "name": "Persian"
+            },
+            {
+              "name": "Purugly"
+            },
+            {
+              "name": "Rotom-Frost"
+            },
+            {
+              "name": "Raichu"
+            }
+          ]
+        },
+        {
+          "name": "Defensive",
+          "children": [
+            {
+              "name": "Probopass"
+            },
+            {
+              "name": "Articuno"
+            },
+            {
+              "name": "Pelipper"
+            },
+            {
+              "name": "Roselia"
+            },
+            {
+              "name": "Tangela"
+            },
+            {
+              "name": "Gourgeist"
+            },
+            {
+              "name": "Piloswine"
+            },
+            {
+              "name": "Volbeat"
+            },
+            {
+              "name": "Misdreavus"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Choice Scarf Users",
+      "children": [
+        {
+          "name": "Sawsbuck"
+        },
+        {
+          "name": "Stoutland"
+        },
+        {
+          "name": "Rotom-Frost"
+        },
+        {
+          "name": "Simipour"
+        },
+        {
+          "name": "Simisage"
+        },
+        {
+          "name": "Simisear"
+        },
+        {
+          "name": "Slaking"
+        },
+        {
+          "name": "Ditto"
+        },
+        {
+          "name": "Rampardos"
+        },
+        {
+          "name": "Servine"
+        }
+      ]
+    },
+    {
+      "name": "Trappers",
+      "children": [
+        {
+          "name": "Dugtrio"
+        },
+        {
+          "name": "Houndoom"
+        },
+        {
+          "name": "Spiritomb"
+        },
+        {
+          "name": "Escavalier"
+        },
+        {
+          "name": "Skuntank"
+        },
+        {
+          "name": "Drapion"
+        }
+      ]
+    },
+    {
+      "name": "Priority",
+      "children": [
+        {
+          "name": "Fletchinder"
+        },
+        {
+          "name": "Glalie"
+        },
+        {
+          "name": "Hitmonlee"
+        },
+        {
+          "name": "Dugtrio"
+        },
+        {
+          "name": "Spiritomb"
+        },
+        {
+          "name": "Druddigon"
+        },
+        {
+          "name": "Emboar"
+        },
+        {
+          "name": "Kabutops"
+        },
+        {
+          "name": "Shiftry"
+        },
+        {
+          "name": "Skuntank"
+        },
+        {
+          "name": "Gurdurr"
+        },
+        {
+          "name": "Kecleon"
+        },
+        {
+          "name": "Houndoom"
+        },
+        {
+          "name": "Samurott"
+        },
+        {
+          "name": "Sneasel"
+        }
+      ]
+    },
+    {
+      "name": "Clerics",
+      "children": [
+        {
+          "name": "Granbull"
+        },
+        {
+          "name": "Aromatisse"
+        },
+        {
+          "name": "Lanturn"
+        },
+        {
+          "name": "Alomomola"
+        },
+        {
+          "name": "Mesprit"
+        },
+        {
+          "name": "Togetic"
+        },
+        {
+          "name": "Meloetta"
+        },
+        {
+          "name": "Audino"
+        }
+      ]
+    },
+    {
+      "name": "Boosting Sweepers",
+      "children": [
+        {
+          "name": "Swords Dance",
+          "children": [
+            {
+              "name": "Gallade"
+            },
+            {
+              "name": "Samurott"
+            },
+            {
+              "name": "Fletchinder"
+            },
+            {
+              "name": "Cobalion"
+            },
+            {
+              "name": "Drapion"
+            },
+            {
+              "name": "Shiftry"
+            },
+            {
+              "name": "Virizion"
+            },
+            {
+              "name": "Rhyperior"
+            },
+            {
+              "name": "Bouffalant"
+            },
+            {
+              "name": "Escavalier"
+            }
+          ]
+        },
+        {
+          "name": "Bulk Up",
+          "children": [
+            {
+              "name": "Medicham"
+            },
+            {
+              "name": "Scrafty"
+            },
+            {
+              "name": "Gallade"
+            },
+            {
+              "name": "Braviary"
+            },
+            {
+              "name": "Gurdurr"
+            },
+            {
+              "name": "Combusken"
+            }
+          ]
+        },
+        {
+          "name": "Nasty Plot",
+          "children": [
+            {
+              "name": "Mismagius"
+            },
+            {
+              "name": "Houndoom"
+            },
+            {
+              "name": "Togetic"
+            },
+            {
+              "name": "Cofagrigus"
+            }
+          ]
+        },
+        {
+          "name": "Calm Mind",
+          "children": [
+            {
+              "name": "Aromatisse"
+            },
+            {
+              "name": "Audino"
+            },
+            {
+              "name": "Delphox"
+            },
+            {
+              "name": "Meloetta"
+            },
+            {
+              "name": "Sigilyph"
+            },
+            {
+              "name": "Virizion"
+            }
+          ]
+        },
+        {
+          "name": "Shell Smash",
+          "children": [
+            {
+              "name": "Gorebyss"
+            },
+            {
+              "name": "Omastar"
+            },
+            {
+              "name": "Barbaracle"
+            },
+            {
+              "name": "Huntail"
+            }
+          ]
+        },
+        {
+          "name": "Dragon Dance",
+          "children": [
+            {
+              "name": "Scrafty"
+            },
+            {
+              "name": "Tyrantrum"
+            }
+          ]
+        },
+        {
+          "name": "Rock Polish",
+          "children": [
+            {
+              "name": "Aurorus"
+            },
+            {
+              "name": "Torterra"
+            },
+            {
+              "name": "Tyrantrum"
+            },
+            {
+              "name": "Rhyperior"
+            },
+            {
+              "name": "Cobalion"
+            }
+          ]
+        },
+        {
+          "name": "Curse",
+          "children": [
+            {
+              "name": "Steelix"
+            },
+            {
+              "name": "Registeel"
+            }
+          ]
+        },
+        {
+          "name": "Baton Pass",
+          "children": [
+            {
+              "name": "Medicham"
+            },
+            {
+              "name": "Jolteon"
+            },
+            {
+              "name": "Durant"
+            },
+            {
+              "name": "Togetic"
+            },
+            {
+              "name": "Combusken"
+            },
+            {
+              "name": "Gorebyss"
+            },
+            {
+              "name": "Huntail"
+            },
+            {
+              "name": "Musharna"
+            }
+          ]
+        },
+        {
+          "name": "Other",
+          "children": [
+            {
+              "name": "Malamar"
+            },
+            {
+              "name": "Durant"
+            },
+            {
+              "name": "Vivillon"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
