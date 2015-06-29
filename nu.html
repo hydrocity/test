@@ -69,6 +69,7 @@ d3.json("compendiums/nuCompendium.json", function(error, root) {
         d.sum = d.value;
         d.key = key(d);
         d.fill = color(d);
+        d.id = d.name.replace(/ /g,'_').replace(/\./g,'').toLowerCase();
       });
 
   // Now redefine the value function to use the previously-computed sum.
@@ -107,7 +108,7 @@ d3.json("compendiums/nuCompendium.json", function(error, root) {
       .on("mouseover", function(d) {
             if(!d._children) {
               console.log(d.name)
-              image.attr("xlink:href", "http://www.smogon.com/dex/media/sprites/xy/" + d.name.toLowerCase() + ".gif")
+              image.attr("xlink:href", "http://www.smogon.com/dex/media/sprites/xy/" + d.id + ".gif")
             }
             label.text(d.name); 
           })
@@ -123,7 +124,7 @@ d3.json("compendiums/nuCompendium.json", function(error, root) {
     if (p.depth > 1) 
       p = p.parent;
     if (!p.children) {
-      window.open("http://www.smogon.com/dex/xy/pokemon/" + p.name);
+      window.open("http://www.smogon.com/dex/xy/pokemon/" + p.id);
       //d3.selectAll("svg > *").remove();
       return;
     }
@@ -185,7 +186,7 @@ d3.json("compendiums/nuCompendium.json", function(error, root) {
           .on("mouseover", function(d) {
             if(!d._children) {
               console.log(d.name)
-              image.attr("xlink:href", "http://www.smogon.com/dex/media/sprites/xy/" + d.name.toLowerCase() + ".gif")
+              image.attr("xlink:href", "http://www.smogon.com/dex/media/sprites/xy/" + d.id + ".gif")
             }
             label.text(d.name); 
           })
