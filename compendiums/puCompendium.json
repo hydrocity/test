@@ -200,7 +200,13 @@
               "name": "Stunfisk"
             },
             {
-              "name": "Whiscash"
+              "name": "Gabite"
+            },
+            {
+              "name": "Vibrava"
+            },
+            {
+              "name": "zweilous"
             },
             {
               "name": "Lapras"
@@ -485,16 +491,7 @@
       "name": "Trappers",
       "children": [
         {
-          "name": "Misdreavus"
-        },
-        {
-          "name": "Roselia"
-        },
-        {
-          "name": "Regice"
-        },
-        {
-          "name": "Simipour"
+          "name": "Probopass"
         }
       ]
     },
