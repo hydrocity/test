@@ -593,19 +593,10 @@
           "name": "Bulk Up",
           "children": [
             {
-              "name": "Barbaracle"
-            },
-            {
               "name": "Beartic"
             },
             {
               "name": "Machoke"
-            },
-            {
-              "name": "Poliwrath"
-            },
-            {
-              "name": "Monferno"
             }
           ]
         },
@@ -643,9 +634,6 @@
             },
             {
               "name": "Mr.Mime"
-            },
-            {
-              "name": "Ninetales"
             },
             {
               "name": "Swoobat"
