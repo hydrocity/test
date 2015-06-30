@@ -483,22 +483,16 @@
       "name": "Trappers",
       "children": [
         {
-          "name": "Dugtrio"
+          "name": "Misdreavus"
         },
         {
-          "name": "Houndoom"
+          "name": "Roselia"
         },
         {
-          "name": "Spiritomb"
+          "name": "Regice"
         },
         {
-          "name": "Escavalier"
-        },
-        {
-          "name": "Skuntank"
-        },
-        {
-          "name": "Drapion"
+          "name": "Simipour"
         }
       ]
     },
@@ -506,49 +500,34 @@
       "name": "Priority",
       "children": [
         {
-          "name": "Fletchinder"
+          "name": "Poliwrath"
         },
         {
-          "name": "Glalie"
+          "name": "Arbok"
         },
         {
-          "name": "Hitmonlee"
+          "name": "Carracosta"
         },
         {
-          "name": "Dugtrio"
+          "name": "Armaldo"
         },
         {
-          "name": "Spiritomb"
+          "name": "Machoke"
         },
         {
-          "name": "Druddigon"
+          "name": "Floatzel"
         },
         {
-          "name": "Emboar"
+          "name": "Flareon"
         },
         {
-          "name": "Kabutops"
+          "name": "Dusknoir"
         },
         {
-          "name": "Shiftry"
+          "name": "Piloswine"
         },
         {
-          "name": "Skuntank"
-        },
-        {
-          "name": "Gurdurr"
-        },
-        {
-          "name": "Kecleon"
-        },
-        {
-          "name": "Houndoom"
-        },
-        {
-          "name": "Samurott"
-        },
-        {
-          "name": "Sneasel"
+          "name": "Raichu"
         }
       ]
     },
@@ -556,28 +535,28 @@
       "name": "Clerics",
       "children": [
         {
-          "name": "Granbull"
+          "name": "Articuno"
         },
         {
-          "name": "Aromatisse"
+          "name": "Meganium"
         },
         {
-          "name": "Lanturn"
+          "name": "Misdreavus"
         },
         {
-          "name": "Alomomola"
+          "name": "Grumpig"
         },
         {
-          "name": "Mesprit"
+          "name": "Meowstic"
         },
         {
           "name": "Togetic"
         },
         {
-          "name": "Meloetta"
+          "name": "Tangela"
         },
         {
-          "name": "Audino"
+          "name": "Flareon"
         }
       ]
     },
@@ -588,34 +567,25 @@
           "name": "Swords Dance",
           "children": [
             {
-              "name": "Gallade"
+              "name": "Barbaracle"
             },
             {
-              "name": "Samurott"
+              "name": "Jumpluff"
             },
             {
-              "name": "Fletchinder"
+              "name": "Leafeon"
             },
             {
-              "name": "Cobalion"
+              "name": "Leavanny"
             },
             {
-              "name": "Drapion"
+              "name": "Marowak"
             },
             {
-              "name": "Shiftry"
+              "name": "Torterra"
             },
             {
-              "name": "Virizion"
-            },
-            {
-              "name": "Rhyperior"
-            },
-            {
-              "name": "Bouffalant"
-            },
-            {
-              "name": "Escavalier"
+              "name": "Monferno"
             }
           ]
         },
@@ -623,22 +593,19 @@
           "name": "Bulk Up",
           "children": [
             {
-              "name": "Medicham"
+              "name": "Barbaracle"
             },
             {
-              "name": "Scrafty"
+              "name": "Beartic"
             },
             {
-              "name": "Gallade"
+              "name": "Machoke"
             },
             {
-              "name": "Braviary"
+              "name": "Poliwrath"
             },
             {
-              "name": "Gurdurr"
-            },
-            {
-              "name": "Combusken"
+              "name": "Monferno"
             }
           ]
         },
@@ -646,16 +613,19 @@
           "name": "Nasty Plot",
           "children": [
             {
-              "name": "Mismagius"
+              "name": "Beheeyem"
             },
             {
-              "name": "Houndoom"
+              "name": "Misdreavus"
             },
             {
-              "name": "Togetic"
+              "name": "Monferno"
             },
             {
-              "name": "Cofagrigus"
+              "name": "Mr.Mime"
+            },
+            {
+              "name": "Raichu"
             }
           ]
         },
@@ -663,22 +633,22 @@
           "name": "Calm Mind",
           "children": [
             {
-              "name": "Aromatisse"
+              "name": "Beheeyem"
             },
             {
-              "name": "Audino"
+              "name": "Golduck"
             },
             {
-              "name": "Delphox"
+              "name": "Grumpig"
             },
             {
-              "name": "Meloetta"
+              "name": "Mr.Mime"
             },
             {
-              "name": "Sigilyph"
+              "name": "Ninetales"
             },
             {
-              "name": "Virizion"
+              "name": "Swoobat"
             }
           ]
         },
@@ -686,13 +656,10 @@
           "name": "Shell Smash",
           "children": [
             {
-              "name": "Gorebyss"
-            },
-            {
-              "name": "Omastar"
-            },
-            {
               "name": "Barbaracle"
+            },
+            {
+              "name": "Carracosta"
             },
             {
               "name": "Huntail"
@@ -703,10 +670,10 @@
           "name": "Dragon Dance",
           "children": [
             {
-              "name": "Scrafty"
+              "name": "Fraxure"
             },
             {
-              "name": "Tyrantrum"
+              "name": "Whiscash"
             }
           ]
         },
@@ -720,68 +687,16 @@
               "name": "Torterra"
             },
             {
-              "name": "Tyrantrum"
+              "name": "Golem"
             },
             {
-              "name": "Rhyperior"
+              "name": "Rampardos"
             },
             {
-              "name": "Cobalion"
+              "name": "Relicanth"
             }
           ]
-        },
-        {
-          "name": "Curse",
-          "children": [
-            {
-              "name": "Steelix"
-            },
-            {
-              "name": "Registeel"
-            }
-          ]
-        },
-        {
-          "name": "Baton Pass",
-          "children": [
-            {
-              "name": "Medicham"
-            },
-            {
-              "name": "Jolteon"
-            },
-            {
-              "name": "Durant"
-            },
-            {
-              "name": "Togetic"
-            },
-            {
-              "name": "Combusken"
-            },
-            {
-              "name": "Gorebyss"
-            },
-            {
-              "name": "Huntail"
-            },
-            {
-              "name": "Musharna"
-            }
-          ]
-        },
-        {
-          "name": "Other",
-          "children": [
-            {
-              "name": "Malamar"
-            },
-            {
-              "name": "Durant"
-            },
-            {
-              "name": "Vivillon"
-            }
+        }
           ]
         }
       ]
