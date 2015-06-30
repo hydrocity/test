@@ -593,9 +593,6 @@
           "name": "Bulk Up",
           "children": [
             {
-              "name": "Beartic"
-            },
-            {
               "name": "Machoke"
             }
           ]
